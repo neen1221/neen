@@ -400,7 +400,7 @@ export default function Home() {
               <span className="text-base">💗</span>
               <span>AI 虚拟陪伴</span>
             </div>
-            <h1 className="text-3xl md:text-4xl font-bold mb-3 tracking-tight bg-gradient-to-r from-[oklch(0.75_0.15_80)] via-[oklch(0.85_0.18_95)] to-[oklch(0.7_0.14_60)] bg-clip-text text-transparent">
+            <h1 className="text-3xl md:text-4xl font-bold mb-3 tracking-tight bg-gradient-to-r from-[oklch(0.78_0.18_0)] via-[oklch(0.7_0.22_350)] to-[oklch(0.72_0.2_20)] bg-clip-text text-transparent">
               选择你的心动女生
             </h1>
             <p className="text-[oklch(0.55_0.03_60)] text-sm md:text-base max-w-sm mx-auto leading-relaxed">
